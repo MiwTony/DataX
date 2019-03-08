@@ -1,6 +1,6 @@
 ![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/DataX-logo.jpg)
 
-该版本包含了一些对dataX的一些修改包括
+该Fork版本包含了一些对dataX的一些修改包括
 1.模板文档中的一些错误配置例子，例如osswriter的配置缺少name
 
 # DataX
